@@ -180,14 +180,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- Your Name - *Initial work* - [YourGitHub](https://github.com/yourusername)
-
-## 🙏 Acknowledgments
-
-- LangChain team for the excellent RAG frameworks
-- Groq for providing the LLM API
-- Mistral AI for embedding capabilities
-- The open-source community for various dependencies
+- sulemankhan-06 - *Initial work* - [YourGitHub](https://github.com/sulemankhan-06/)
 
 ---
 
