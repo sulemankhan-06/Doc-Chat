@@ -180,7 +180,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- sulemankhan-06 - *Initial work* - [YourGitHub](https://github.com/sulemankhan-06/)
+- sulemankhan-06 - *Initial work* - [GitHub](https://github.com/sulemankhan-06/)
 
 ---
 
